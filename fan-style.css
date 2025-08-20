@@ -1,6 +1,6 @@
 body {
     background: #000000;
-    color: #ffffff;
+    color: #B6995A;
     padding: 10px;
     font-family: '8bitoperatorjve', monospace;
 }
@@ -22,7 +22,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: #FFFFFF;
+    color: #B6995A;
     flex: 1;
     margin: 0;
 }
@@ -41,7 +41,7 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #FFFFFF;
+    color: #B6995A;
 }
 
 
@@ -78,7 +78,7 @@ h2, h3 {
 
 
 .content h1 {
-  color: #FFFFFF;
+  color: #B6995A;
 }
 
 #portfolio {
@@ -99,6 +99,5 @@ h2, h3 {
 
 #portfolio a {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #B6995A;
 }
-
