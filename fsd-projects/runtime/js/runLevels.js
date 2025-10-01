@@ -77,6 +77,7 @@ var runLevels = function (window) {
       game.increaseScore(100);
     };
     reward.onProjectileCollision = function () {
+      game.increaseScore(100)
       reward.fadeOut();
     };
     };
